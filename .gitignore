@@ -1,0 +1,22 @@
+# Virtual environment (VERY IMPORTANT)
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment variables (API keys)
+.env
+
+# Config files (if you store secrets here)
+app/config.py
+
+# VS Code settings (optional)
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs (optional)
+*.log

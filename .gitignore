@@ -8,7 +8,7 @@ __pycache__/
 # Environment variables (API keys)
 .env
 
-# Config files (if you store secrets here)
+
 app/config.py
 
 # VS Code settings (optional)
